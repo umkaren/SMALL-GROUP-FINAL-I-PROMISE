@@ -9,3 +9,7 @@ git checkout
 git reset
 
 ## resets a previous commit
+
+git rebase
+
+## applies the commits of another branch to a branch
