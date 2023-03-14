@@ -1,3 +1,7 @@
 git log
 
 ## see log of commits
+
+git checkout 
+
+## switch to a different branch
