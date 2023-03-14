@@ -5,3 +5,7 @@ git log
 git checkout 
 
 ## switch to a different branch
+
+git reset
+
+## resets a previous commit
